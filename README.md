@@ -20,6 +20,7 @@
 ![model](readme_images/rnn.png)
 </br>
 
+### Sampling 
 I used Sampling to generate new names, as shown in the figure . </br>
 
 ![sample](readme_images/sampling.png)
